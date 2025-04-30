@@ -10,6 +10,7 @@ I'm currently on **Day 17** of the course and actively uploading each day's work
 
 Each day has its own folder:
 Day 001 - Band Name Generator  | ✅ done 
+
 Day 002 - Tip Calculator  | ✅ done 
 Day 003 - Treasure Island Game  | ✅ done 
 Day 004 - Rock Paper Scissors  | ✅ done 
