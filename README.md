@@ -9,24 +9,23 @@ I'm currently on **Day 17** of the course and actively uploading each day's work
 ## 📁 Structure
 
 Each day has its own folder:
-Day 001 - Band Name Generator  | ✅ done 
-
-Day 002 - Tip Calculator  | ✅ done 
-Day 003 - Treasure Island Game  | ✅ done 
-Day 004 - Rock Paper Scissors  | ✅ done 
-Day 005 - Password Generator  | ✅ done 
-Day 006 - Reeborg’s World Hurdles  | ✅ done 
-Day 007 - Hangman Game  | ✅ done 
-Day 008 - Caesar Cipher  | ✅ done 
-Day 009 - Silent Auction Program  | ✅ done 
-Day 010 - Calculator  | ✅ done 
-Day 011 - Blackjack Game  | ✅ done 
-Day 012 - Number Guessing Game  | ✅ done 
-Day 013 - Debugging Practice  | ✅ done 
-Day 014 - Higher Lower Game  | ✅ done 
-Day 015 - Coffee Machine (Procedural)  | ✅ done 
-Day 016 - Coffee Machine (OOP Version)  | ✅ done 
-Day 017 - Quiz Game  | ✅ done 
+Day 001 - Band Name Generator  | ✅ done  
+Day 002 - Tip Calculator  | ✅ done  
+Day 003 - Treasure Island Game  | ✅ done  
+Day 004 - Rock Paper Scissors  | ✅ done  
+Day 005 - Password Generator  | ✅ done  
+Day 006 - Reeborg’s World Hurdles  | ✅ done  
+Day 007 - Hangman Game  | ✅ done  
+Day 008 - Caesar Cipher  | ✅ done  
+Day 009 - Silent Auction Program  | ✅ done  
+Day 010 - Calculator  | ✅ done  
+Day 011 - Blackjack Game  | ✅ done  
+Day 012 - Number Guessing Game  | ✅ done  
+Day 013 - Debugging Practice  | ✅ done  
+Day 014 - Higher Lower Game  | ✅ done  
+Day 015 - Coffee Machine (Procedural)  | ✅ done  
+Day 016 - Coffee Machine (OOP Version)  | ✅ done  
+Day 017 - Quiz Game  | ✅ done  
 Day 018 - Turtle Graphics & GUI Design  
 Day 019 - Etch-A-Sketch App  
 Day 020 - Turtle Race Game  
